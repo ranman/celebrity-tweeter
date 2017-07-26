@@ -142,7 +142,7 @@ Hey @awscloudninja cloud ninja me and @werner!
 
 ## How does it all work?
 
-It's really straight forward and all the magic happens in [process_stream.py](lambda_functions/process_stream.py)
+It's really straight forward and all the magic happens in [process_stream.py](process_stream.py)
 
 
 
